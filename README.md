@@ -1,7 +1,7 @@
 <div id='header' align='center'>
   <img src="https://media.giphy.com/media/f3Fyup5KscPQvfR5sS/giphy.gif"/>
   <h1>I'm Antonyjuan 👋</h1>
-  I am a student of the Computer Science degree at the San Pab  lo Catholic University (Arequipa, Peru). I am passionate about learning new technologies and have a strong    interest in software development and data science. I am currently doing pre-professional internships at Caja Arequipa as a data scientist and data analyst. I am a responsible person, dedicated to my work, and also to the service of others. I am always eager for new challenges.
+  I am a student of the Computer Science degree at the San Pablo Catholic University (Arequipa, Perú). I am passionate about learning new technologies and have a strong    interest in software development and data science. I am currently doing pre-professional internships at Caja Arequipa as a data scientist and data analyst. I am a responsible person, dedicated to my work, and also to the service of others. I am always eager for new challenges.
 </div>
 
 ---
